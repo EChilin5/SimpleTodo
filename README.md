@@ -4,7 +4,7 @@ Simple Todo is an android app that allows building a todo list and basic todo it
 
 Submitted by: **Edgar Chilin**
 
-Time spent: **5** hours spent in total
+Time spent: **5.5** hours spent in total
 
 ## User Stories
 
@@ -33,8 +33,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 Using the wrong FileUtils import for the project.
-Having issues sharing the project on git hub
+
+Having issues sharing the project on github and creating a token.
+
+Had a weird issue where I had two instances of my account when I committed. 
+
+The emulator is a bit slow so I thought it wasn't working at first.
+Eventually it loaded successfully.
 
 ## License
 
