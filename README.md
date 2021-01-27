@@ -4,7 +4,7 @@ Simple Todo is an android app that allows building a todo list and basic todo it
 
 Submitted by: **Edgar Chilin**
 
-Time spent: **6.5** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -44,6 +44,9 @@ The emulator is a bit slow so I thought it wasn't working at first.
 Eventually it loaded successfully.
 
 Similar issues as before emulator is a bit slow, so hard to tell if I use OnClicked correctly 
+
+Added a splash screen to the app. The main issue I encountered is designing the screen and implementing
+it because I deleted the id of the image and kept getting a blank screen appearing.
 
 ## License
 
